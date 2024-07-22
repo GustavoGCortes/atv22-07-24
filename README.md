@@ -1,7 +1,7 @@
 # atv22-07-24
 
 1)header- representa um contêiner para conteúdo introdutório ou conjunto de links, introduzindo um valor semântico.
- Você pode ter vários <header> elementos em um documento HTML. No entanto, <header>não pode ser colocado dentro de um <footer>, <address> ou outro <header>elemento.
+Você pode ter vários <header> elementos em um documento HTML. No entanto, <header>não pode ser colocado dentro de um <footer>, <address> ou outro <header>elemento.
 footer- tag define um rodapé onde normalmente contém informações sobre direitos autorais , de contato,, mapa de site , voltar a links principais.
 você pode ter vários <footer>elementos em um documento.
 main- tag onde deve ter elementos exclusivos para o documento, ou seja, onde fica a parte principal.
